@@ -1,8 +1,5 @@
 # my-repositories
 
-![GitHub followers](https://img.shields.io/github/followers/ludovicobesana?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ludovicobesana?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
 This repository contains a **curated and categorized list** of all the public projects available on my GitHub profile. ✨  
 I’ve organized them into three clear categories so you can quickly see which projects are ready to use, which ones are actively being developed, and which ones are still in the idea stage.
 
@@ -32,5 +29,8 @@ Repositories that are **not yet started** ideas, skeleton projects, or planned e
 
 I keep these lists updated as I continue to work on my projects.  
 Feel free to **explore**, **watch**, or **contribute**! 🚀
+
+![GitHub followers](https://img.shields.io/github/followers/ludovicobesana?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ludovicobesana?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 📌 **Follow me on GitHub** to stay updated on new projects and progress: [@ludovicobesana](https://github.com/ludovicobesana)
